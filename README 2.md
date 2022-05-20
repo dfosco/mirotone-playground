@@ -1,4 +1,4 @@
-# mirotone-playground
+# pajamas-playground
 
 ## Project setup
 ```
